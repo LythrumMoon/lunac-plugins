@@ -1,20 +1,20 @@
 [
     {
         "id":  "music",
-        "name":  "闊充箰",
-        "description":  "LRCLIB 姝岃瘝鎶撳彇 + Spotify 鎾斁鎺у埗",
+        "name":  "音乐",
+        "description":  "LRCLIB 歌词抓取 + Spotify 播放控制",
         "version":  "0.9.6",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/music-0.9.6.zip",
         "keywords":  [
                          "music",
-                         "闊充箰",
-                         "姝岃瘝",
-                         "music 闊充箰",
+                         "音乐",
+                         "歌词",
+                         "music 音乐",
                          "spotify",
                          "lyrics",
                          "lrclib"
                      ],
-        "icon":  "馃幍",
+        "icon":  "🎵",
         "homepage":  "https://github.com/LythrumMoon/Lunac"
     }
 ]
