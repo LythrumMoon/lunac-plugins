@@ -1,5 +1,45 @@
 [
     {
+        "id":  "clipboard-history",
+        "name":  "剪贴板历史",
+        "description":  "剪贴板历史管理 —— 复制自动记录",
+        "version":  "0.9.6",
+        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/clipboard-history-0.9.6.zip",
+        "keywords":  [
+                         "clipboard",
+                         "history",
+                         "paste",
+                         "剪切板",
+                         "历史",
+                         "剪贴板",
+                         "粘贴",
+                         "复制"
+                     ],
+        "icon":  "📋",
+        "homepage":  "https://github.com/LythrumMoon/Lunac"
+    },
+    {
+        "id":  "convert",
+        "name":  "文件转换",
+        "description":  "图片 / 音频 / 视频格式互转 (Image / Audio / Video converter · ffmpeg)",
+        "version":  "0.9.6",
+        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/convert-0.9.6.zip",
+        "keywords":  [
+                         "转换",
+                         "格式转换",
+                         "转格式",
+                         "convert",
+                         "格式",
+                         "转码",
+                         "提取音频",
+                         "图片转换",
+                         "视频转换",
+                         "音频转换"
+                     ],
+        "icon":  "🔄",
+        "homepage":  "https://github.com/LythrumMoon/Lunac"
+    },
+    {
         "id":  "music",
         "name":  "音乐",
         "description":  "LRCLIB 歌词抓取 + Spotify 播放控制",
@@ -15,6 +55,25 @@
                          "lrclib"
                      ],
         "icon":  "🎵",
+        "homepage":  "https://github.com/LythrumMoon/Lunac"
+    },
+    {
+        "id":  "ocr",
+        "name":  "OCR 文字识别",
+        "description":  "OCR 图片文字识别 (PaddleOCR · 离线高精度)",
+        "version":  "0.9.6",
+        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/ocr-0.9.6.zip",
+        "keywords":  [
+                         "ocr",
+                         "识别",
+                         "文字识别",
+                         "图像识别",
+                         "图片转文字",
+                         "截图识别",
+                         "图识字",
+                         "文字提取"
+                     ],
+        "icon":  "🔍",
         "homepage":  "https://github.com/LythrumMoon/Lunac"
     }
 ]
