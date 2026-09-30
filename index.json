@@ -79,7 +79,7 @@
     {
         "id":  "pet",
         "name":  "桌宠",
-        "description":  "桌宠 —— 独立透明置顶的桌面形象窗（形象由你自己导入）",
+        "description":  "桌宠 —— 独立透明置顶的桌面形象窗（图片或 Live2D 模型，由你自己导入）",
         "version":  "0.9.8",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/pet-0.9.8.zip",
         "keywords":  [
