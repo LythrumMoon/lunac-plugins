@@ -43,8 +43,8 @@
         "id":  "music",
         "name":  "音乐",
         "description":  "LRCLIB 歌词抓取 + Spotify 播放控制",
-        "version":  "0.9.8",
-        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/music-0.9.8.zip",
+        "version":  "0.9.13",
+        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/music-0.9.13.zip",
         "keywords":  [
                          "music",
                          "音乐",
@@ -80,8 +80,8 @@
         "id":  "pet",
         "name":  "桌宠",
         "description":  "桌宠 —— 独立透明置顶的桌面形象窗（图片或 Live2D 模型，由你自己导入）",
-        "version":  "0.9.8",
-        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/pet-0.9.8.zip",
+        "version":  "0.9.9",
+        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/pet-0.9.9.zip",
         "keywords":  [
                          "桌宠",
                          "宠物",
