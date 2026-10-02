@@ -43,8 +43,8 @@
         "id":  "music",
         "name":  "音乐",
         "description":  "LRCLIB 歌词抓取 + Spotify 播放控制",
-        "version":  "0.9.13",
-        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/music-0.9.13.zip",
+        "version":  "0.9.14",
+        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/music-0.9.14.zip",
         "keywords":  [
                          "music",
                          "音乐",
