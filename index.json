@@ -43,8 +43,8 @@
         "id":  "music",
         "name":  "音乐",
         "description":  "LRCLIB 歌词抓取 + Spotify 播放控制",
-        "version":  "0.9.19",
-        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/music-0.9.19.zip",
+        "version":  "0.9.27",
+        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/music-0.9.27.zip",
         "keywords":  [
                          "music",
                          "音乐",
@@ -61,8 +61,8 @@
         "id":  "ocr",
         "name":  "OCR 文字识别",
         "description":  "OCR 图片文字识别 (PaddleOCR · 离线高精度)",
-        "version":  "0.9.8",
-        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/ocr-0.9.8.zip",
+        "version":  "0.9.10",
+        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/ocr-0.9.10.zip",
         "keywords":  [
                          "ocr",
                          "识别",
