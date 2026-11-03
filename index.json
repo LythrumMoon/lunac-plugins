@@ -5,7 +5,7 @@
         "description":  "剪贴板历史管理 —— 复制自动记录",
         "version":  "0.9.8",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/productivity/clipboard-history-0.9.8.zip",
-        "sha256":  "a6c1c55b36144595d7b8acafe9878f706b274e29b2d04600564456b8754ebfd2",
+        "sha256":  "963fce771c44d3815b345056d58e6f863f9aa6c121b70691a8fb16071fb59fe1",
         "keywords":  [
                          "clipboard",
                          "history",
@@ -25,7 +25,7 @@
         "description":  "PDF / 视频 / 音频格式转换（ffmpeg + 本机 LibreOffice）",
         "version":  "0.9.9",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/productivity/convert-0.9.9.zip",
-        "sha256":  "bb0561e4829ecfa72ee9ae34d242bd31047bb625c5874a6f6d1fb709a6be7d3c",
+        "sha256":  "c445e22a14bd4d153b56c3fba7df3976041d9682b4f2c7578072b990dfe2bd85",
         "keywords":  [
                          "转换",
                          "格式转换",
@@ -51,7 +51,7 @@
         "description":  "本地小模型（llama-server）—— 只参与「要不要把消息发给云模型」的决策，省钱",
         "version":  "0.13.0",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/ai/local-model-0.13.0.zip",
-        "sha256":  "788d03c5202175b1e73f9476709b1a68a76a8749581962db107c300a373c351f",
+        "sha256":  "22322c4a1254219827fff9709e0ad517a256d67661a133520c4c75e769e20544",
         "keywords":  [
                          "本地模型",
                          "本地模型决策",
@@ -72,7 +72,7 @@
         "description":  "LRCLIB 歌词抓取 + Spotify 播放控制",
         "version":  "0.9.37",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/media/music-0.9.37.zip",
-        "sha256":  "6257102d867bff8ebd5d20fe0456486359137aba9f7354a97a9971ee02dd7fcd",
+        "sha256":  "1759daa64554a979630be8b68a976c45ef2b63cd2ab69e0d901ca4786f983c10",
         "keywords":  [
                          "music",
                          "音乐",
@@ -91,7 +91,7 @@
         "description":  "OCR 图片文字识别 (PaddleOCR · 离线高精度)",
         "version":  "0.9.11",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/ocr/ocr-0.9.11.zip",
-        "sha256":  "553675507db57dad33c56d717193b4052a6cbddd057929d43be28fa7a3544f2d",
+        "sha256":  "fc16a0e7e64e3ace2142e3944438e0915e13675c5a330f2bcaac3182ba8b20b9",
         "keywords":  [
                          "ocr",
                          "识别",
@@ -111,7 +111,7 @@
         "description":  "桌宠 —— 独立透明置顶的桌面形象窗（图片或 Live2D 模型，由你自己导入）",
         "version":  "0.9.65",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/pet/pet-0.9.65.zip",
-        "sha256":  "f4a2cd461e7c3a3c57bb8eab36e4b737eb99ce1f140feb9ee853ed00f49c9bdc",
+        "sha256":  "77a56995c9ca55cb3bc40cef428f08278f6d7da7cad98de80011c0e325c0764d",
         "keywords":  [
                          "桌宠",
                          "宠物",
@@ -128,10 +128,10 @@
     {
         "id":  "proxy",
         "name":  "代理",
-        "description":  "系统代理 + mihomo 内核托管（订阅 / 手动节点 / 测速）+ 本机播放走代理",
-        "version":  "0.9.4",
-        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/system/proxy-0.9.4.zip",
-        "sha256":  "d844bb78e82d553ef8a1ab52247914931689a885efdb31c9a41f03d3a51ccbec",
+        "description":  "系统代理 + 自研代理内核（订阅 / 服务器 / 规则 / 请求日志）",
+        "version":  "0.10.5",
+        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/system/proxy-0.10.5.zip",
+        "sha256":  "809d3d6db6121e6b8b962993d445f8320c1103032a638118a2221561f6ddc8eb",
         "keywords":  [
                          "代理",
                          "proxy",
@@ -140,9 +140,32 @@
                          "vpn",
                          "socks5",
                          "http proxy",
-                         "clash"
+                         "订阅",
+                         "服务器"
                      ],
         "icon":  "🌐",
         "homepage":  "https://github.com/LythrumMoon/Lunac"
+    },
+    {
+        "id":  "resource-hub",
+        "name":  "阅读",
+        "description":  "漫画 / 小说 / 番剧 / 电视剧聚合阅读与播放",
+        "version":  "0.2.5",
+        "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/reading/resource-hub-0.2.5.zip",
+        "sha256":  "9bb59f4ab968cb2797496c91dd0c366bd88e44a9e5bae6e3c768ac9516fa2a05",
+        "keywords":  [
+                         "阅读",
+                         "漫画",
+                         "小说",
+                         "番剧",
+                         "电视剧",
+                         "资源",
+                         "read",
+                         "comic",
+                         "novel",
+                         "anime"
+                     ],
+        "icon":  "",
+        "homepage":  ""
     }
 ]
