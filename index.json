@@ -5,7 +5,7 @@
         "description":  "剪贴板历史管理 —— 复制自动记录",
         "version":  "0.9.8",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/productivity/clipboard-history-0.9.8.zip",
-        "sha256":  "963fce771c44d3815b345056d58e6f863f9aa6c121b70691a8fb16071fb59fe1",
+        "sha256":  "103aebf611edb41fbe875a95c8773edb8f1a394157c3e561ef91843df1b73ef0",
         "keywords":  [
                          "clipboard",
                          "history",
@@ -25,7 +25,7 @@
         "description":  "PDF / 视频 / 音频格式转换（ffmpeg + 本机 LibreOffice）",
         "version":  "0.9.9",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/productivity/convert-0.9.9.zip",
-        "sha256":  "c445e22a14bd4d153b56c3fba7df3976041d9682b4f2c7578072b990dfe2bd85",
+        "sha256":  "75e3e9feef09582e50a3d750931da3ed240aa2068128f0417621e0006fac1b7c",
         "keywords":  [
                          "转换",
                          "格式转换",
@@ -51,7 +51,7 @@
         "description":  "本地小模型（llama-server）—— 只参与「要不要把消息发给云模型」的决策，省钱",
         "version":  "0.13.0",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/ai/local-model-0.13.0.zip",
-        "sha256":  "22322c4a1254219827fff9709e0ad517a256d67661a133520c4c75e769e20544",
+        "sha256":  "645c5b3a0b16d24246e1f57b7078aa76026a3d7450c533aa38222e045269f6c3",
         "keywords":  [
                          "本地模型",
                          "本地模型决策",
@@ -72,7 +72,7 @@
         "description":  "LRCLIB 歌词抓取 + Spotify 播放控制",
         "version":  "0.9.37",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/media/music-0.9.37.zip",
-        "sha256":  "1759daa64554a979630be8b68a976c45ef2b63cd2ab69e0d901ca4786f983c10",
+        "sha256":  "c0421683719593f83abb2c72238c38bb2d1bb3ecb7397095b591956e4c87e38a",
         "keywords":  [
                          "music",
                          "音乐",
@@ -91,7 +91,7 @@
         "description":  "OCR 图片文字识别 (PaddleOCR · 离线高精度)",
         "version":  "0.9.11",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/ocr/ocr-0.9.11.zip",
-        "sha256":  "fc16a0e7e64e3ace2142e3944438e0915e13675c5a330f2bcaac3182ba8b20b9",
+        "sha256":  "0eae4500f4cc4b262cea86205ef420e5f31caa90056e8c9aaac3af4d5f908338",
         "keywords":  [
                          "ocr",
                          "识别",
@@ -111,7 +111,7 @@
         "description":  "桌宠 —— 独立透明置顶的桌面形象窗（图片或 Live2D 模型，由你自己导入）",
         "version":  "0.9.65",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/pet/pet-0.9.65.zip",
-        "sha256":  "77a56995c9ca55cb3bc40cef428f08278f6d7da7cad98de80011c0e325c0764d",
+        "sha256":  "faa0c73b603462da315908d3ee90ac7edcfe8bcb09aa28938656d73857b3752f",
         "keywords":  [
                          "桌宠",
                          "宠物",
@@ -131,7 +131,7 @@
         "description":  "系统代理 + 自研代理内核（订阅 / 服务器 / 规则 / 请求日志）",
         "version":  "0.10.5",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/system/proxy-0.10.5.zip",
-        "sha256":  "809d3d6db6121e6b8b962993d445f8320c1103032a638118a2221561f6ddc8eb",
+        "sha256":  "c87a5e5fe6dcf27afbdb9def022b7992eb964c8af5b6ea5561fe648223c7e18e",
         "keywords":  [
                          "代理",
                          "proxy",
@@ -152,7 +152,7 @@
         "description":  "漫画 / 小说 / 番剧 / 电视剧聚合阅读与播放",
         "version":  "0.2.5",
         "url":  "https://raw.githubusercontent.com/LythrumMoon/lunac-plugins/main/packages/reading/resource-hub-0.2.5.zip",
-        "sha256":  "9bb59f4ab968cb2797496c91dd0c366bd88e44a9e5bae6e3c768ac9516fa2a05",
+        "sha256":  "7a083d4dc096808389443c1b24f3f41ee4c51e69ec7e0394e9f57817cd931cc1",
         "keywords":  [
                          "阅读",
                          "漫画",
